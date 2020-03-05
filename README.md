@@ -1,16 +1,21 @@
-# cyclic_numbers
+<h1 align="center">
+  <a href="https://minikin.me/cyclic_numbers/">
+   Cyclic Numbers
+  </a>
+</h1>
 
-A new Flutter project.
+<p align="center">
+ Cyclic Numbers is electronic music label run by Andrey Sirotkin & Sasha Prokhorenko.
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <a href="https://github.com/minikin/cyclic_numbers/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-Mixed-blue.svg" alt="Cyclic Numbers is released under the Mixed license." />
+  </a>
+  <a href="https://codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/latest_build">
+    <img src="https://api.codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/status_badge.svg" alt="Current Build Status." />
+  </a>
+  <a href="https://github.com/minikin/flutter-web-demo/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
+</p>
